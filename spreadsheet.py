@@ -1,5 +1,5 @@
  # Copy of spreadsheet here: https://docs.google.com/spreadsheets/d/1j-hdTuNznRYAwJ-f8-DVUjfmrvWIN1cJzEqffgLNPxo/edit#gid=0
-# Shared this email with google sheets: legislators@python-sheets-180602.iam.gserviceaccount.com
+# Shared this email with google sheets: petition@petition-180717.iam.gserviceaccount.com
 # Installed: pip install gspread oauth2client
 
 # gspread is a Python client library for the Google Sheets API.
